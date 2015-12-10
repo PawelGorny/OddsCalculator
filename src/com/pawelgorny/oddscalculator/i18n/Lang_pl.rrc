@@ -1,0 +1,17 @@
+BUTTON_CALCULATE1#0="Oszacuj ko\u0144cowy wynik";
+BUTTON_CANCEL#0="Anuluj";
+BUTTON_CLEAR#0="Czy\u015B\u0107";
+HAND#0="R\u0119ka:";
+INFO_CARDS_NOT_SELECTED#0="Nie wybrane karty w r\u0119ce!";
+INFO_SELECT_CARD#0="Wybierz kart\u0119";
+PLAYER#0="Gracz";
+RESULT_2PAIRS#0="Dwie pary";
+RESULT_FLUSH#0="Kolor";
+RESULT_FOUR#0="Kareta";
+RESULT_FULL#0="Full";
+RESULT_NOPAIR#0="Wysoka karta";
+RESULT_PAIR#0="Para";
+RESULT_STRAIGHT#0="Strit";
+RESULT_STRAIGHTFLUSH#0="Poker";
+RESULT_THREE#0="Trójka";
+TABLE#0="Stó\u0142:";

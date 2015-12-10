@@ -1,0 +1,16 @@
+BUTTON_CALCULATE1#0="Evaluer les resultats";
+BUTTON_CANCEL#0="Annuler";
+BUTTON_CLEAR#0="Supprimer";
+HAND#0="Main:";
+INFO_CARDS_NOT_SELECTED#0="Choisissez vos cartes!";
+PLAYER#0="Joueur";
+RESULT_2PAIRS#0="double paire";
+RESULT_FLUSH#0="couleur";
+RESULT_FOUR#0="carré";
+RESULT_FULL#0="full";
+RESULT_NOPAIR#0="carte haute";
+RESULT_PAIR#0="paire";
+RESULT_STRAIGHT#0="quinte";
+RESULT_STRAIGHTFLUSH#0="quinte flush";
+RESULT_THREE#0="brelan";
+TABLE#0="Table:";

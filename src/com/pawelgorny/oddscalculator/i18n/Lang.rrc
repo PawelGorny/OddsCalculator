@@ -1,0 +1,17 @@
+BUTTON_CALCULATE1#0="Calculate the final result";
+BUTTON_CANCEL#0="Cancel";
+BUTTON_CLEAR#0="Clear";
+HAND#0="Hand:";
+INFO_CARDS_NOT_SELECTED#0="The hole cards not selected!";
+INFO_SELECT_CARD#0="select the card:";
+PLAYER#0="Player";
+RESULT_2PAIRS#0="Two Pair";
+RESULT_FLUSH#0="Flush";
+RESULT_FOUR#0="Four of a Kind";
+RESULT_FULL#0="Full House";
+RESULT_NOPAIR#0="High Card";
+RESULT_PAIR#0="Pair";
+RESULT_STRAIGHT#0="Straight";
+RESULT_STRAIGHTFLUSH#0="Straight Flush";
+RESULT_THREE#0="Three of a Kind";
+TABLE#0="Table:";
